@@ -9,7 +9,18 @@ I enjoy building **user-friendly digital solutions** and exploring **modern web 
 
 ---
 
-## 💻 Languages & Tools
+## 💻 Programming & Technologies
+
+**Programming Languages:** Python, JavaScript, TypeScript, Java  
+**Frontend:** HTML, CSS, Bootstrap, Angular, React.js  
+**Backend:** Node.js, Express.js, Symfony, Spring Boot  
+**Mobile Development:** React Native (Expo), Flutter  
+**Databases:** MySQL, PostgreSQL, MongoDB, Firebase, AppWrite  
+**Tools & Platforms:** Git, GitHub, Docker, FlutterFlow, Jira  
+
+---
+
+## 🌟 Languages & Tools Badges
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,6 +32,9 @@ I enjoy building **user-friendly digital solutions** and exploring **modern web 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -39,7 +53,7 @@ I enjoy building **user-friendly digital solutions** and exploring **modern web 
 ---
 
 ## 💬 Ask me about
-React, Angular, Node.js, Mobile Apps, Web Development, APIs, Database Management
+React, Angular, Node.js, Mobile Apps, Web Development, APIs, Database Management, Agile Practices, Cloud Services
 
 ---
 
