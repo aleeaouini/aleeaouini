@@ -9,17 +9,6 @@ I enjoy building **user-friendly digital solutions** and exploring **modern web 
 
 ---
 
-## 💻 Programming & Technologies
-
-**Programming Languages:** Python, JavaScript, TypeScript, Java  
-**Frontend:** HTML, CSS, Bootstrap, Angular, React.js  
-**Backend:** Node.js, Express.js, Symfony, Spring Boot  
-**Mobile Development:** React Native (Expo), Flutter  
-**Databases:** MySQL, PostgreSQL, MongoDB, Firebase, AppWrite  
-**Tools & Platforms:** Git, GitHub, Docker, FlutterFlow, Jira  
-
----
-
 ## 🌟 Languages & Tools Badges
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
