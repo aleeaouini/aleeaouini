@@ -27,14 +27,6 @@ I enjoy building **user-friendly digital solutions** and exploring **modern web 
 
 ---
 
-## 📈 GitHub Stats
-
-![Alee's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleeaouini&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleeaouini&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/alee-aouini-0851b12aa)
 - Email: aleeaouini@gmail.com
